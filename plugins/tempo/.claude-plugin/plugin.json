@@ -1,0 +1,9 @@
+{
+  "name": "tempo",
+  "version": "0.1.0",
+  "description": "Connect Claude Code to your Tempo",
+  "author": {
+    "name": "Santori"
+  },
+  "homepage": "https://tempo.so"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "tempo",
+  "description": "Tempo for Claude Code",
+  "owner": { "name": "Santori" },
+  "plugins": [
+    {
+      "name": "tempo",
+      "source": "./plugins/tempo",
+      "description": "Connect Claude Code to your Tempo"
+    }
+  ]
+}
